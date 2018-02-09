@@ -1,5 +1,5 @@
 {
-	"name": "jackkum/phppdu",
+	"name": "rmoore/phppdu",
 	"description": "Creating pdu string for sending sms.",
 	"type": "library",
 	"require": {},
