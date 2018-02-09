@@ -7,7 +7,7 @@
 		"phpunit/phpunit": "4.0.*"
 	},
 	"replace": {
-		"jackkum/phppdu": "self.version"
+		"jackkum/phppdu": "1.2.10"
 	},
 	"license": "MIT",
 	"authors": [
